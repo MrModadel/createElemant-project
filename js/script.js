@@ -62,7 +62,7 @@ btns.forEach(btn=>{
          btn.innerText = 'В избранное'
       }else{
          btn.classList.add('active');
-         btn.innerText = 'Добавлено'
+         btn.innerText = ' Добавлено'
       }
    }
 })
